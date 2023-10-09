@@ -13,11 +13,12 @@ function Haiku2(){
     console.log("Sven speelt graag met zijn spul");
     console.log("Anthony heeft depressie");
 }
+//Tyler's haiku heeft te veel syllables
 function Haiku3(){
-    console.log("haiku by:","AUTHOR");
-    console.log("REGEL1");
-    console.log("REGEL2");
-    console.log("REGEL3");
+    console.log("haiku by:","Evert");
+    console.log("Tittering monkey,");
+    console.log("In the spring he climbs treetops");
+    console.log("And thinks himself tall.");
 }
 
 
