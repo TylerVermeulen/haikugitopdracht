@@ -13,7 +13,7 @@ function Haiku2(){
     console.log("Sven speelt graag met zijn spul");
     console.log("Anthony heeft depressie");
 }
-//Tyler's haiku heeft te veel syllables
+//Tyler's haiku heeft te veel syllables -Evert
 function Haiku3(){
     console.log("haiku by:","Evert");
     console.log("Tittering monkey,");
