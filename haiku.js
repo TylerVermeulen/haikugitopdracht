@@ -8,10 +8,10 @@ function Haiku1(){
     console.log("Remarkable oaf.");
 }
 function Haiku2(){
-    console.log("haiku by:","AUTHOR");
-    console.log("REGEL1");
-    console.log("REGEL2");
-    console.log("REGEL3");
+    console.log("haiku by:","Tyler");
+    console.log("Emiel heeft een lange lul");
+    console.log("Sven speelt graag met zijn spul");
+    console.log("Anthony heeft depressie");
 }
 function Haiku3(){
     console.log("haiku by:","AUTHOR");
