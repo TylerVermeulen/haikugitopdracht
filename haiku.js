@@ -2,10 +2,10 @@
 
 //plak hier de haiku functions onder elkaar
 function Haiku1(){
-    console.log("haiku by:","AUTHOR");
-    console.log("REGEL1");
-    console.log("REGEL2");
-    console.log("REGEL3");
+    console.log("haiku by:","Evert");
+    console.log("Five, seven, then five");
+    console.log("Syllables mark a haiku.");
+    console.log("Remarkable oaf.");
 }
 function Haiku2(){
     console.log("haiku by:","AUTHOR");
